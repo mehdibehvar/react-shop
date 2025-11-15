@@ -1,3 +1,70 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Abstract shapes for hero",
+      "imageUrl": "https://images.unsplash.com/photo-1595411425732-e69c1abe2763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhYnN0cmFjdCUyMGdlb21ldHJpY3xlbnwwfHx8fDE3NjMwOTI4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract geometric"
+    },
+    {
+      "id": "product-1",
+      "description": "A modern camera",
+      "imageUrl": "https://images.unsplash.com/photo-1582994254571-52c62d96ebab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYW1lcmElMjBsZW5zfGVufDB8fHx8MTc2MzE2MDM3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "camera lens"
+    },
+    {
+      "id": "product-2",
+      "description": "A stylish backpack",
+      "imageUrl": "https://images.unsplash.com/photo-1731668694905-c20be391aac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdHlsaXNoJTIwYmFja3BhY2t8ZW58MHx8fHwxNzYzMTE0MzM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stylish backpack"
+    },
+    {
+      "id": "product-3",
+      "description": "Wireless headphones",
+      "imageUrl": "https://images.unsplash.com/photo-1635329086694-d02f81549dea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoZWFkcGhvbmVzJTIwYXVkaW98ZW58MHx8fHwxNzYzMTM0MjM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headphones audio"
+    },
+    {
+      "id": "product-4",
+      "description": "A sleek smartwatch",
+      "imageUrl": "https://images.unsplash.com/photo-1638193394203-670cf78605ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c21hcnR3YXRjaCUyMHRlY2h8ZW58MHx8fHwxNzYzMTg4MDI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartwatch tech"
+    },
+    {
+      "id": "product-5",
+      "description": "A drone in flight",
+      "imageUrl": "https://images.unsplash.com/photo-1562868114-b92695b6bdd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkcm9uZSUyMGZseWluZ3xlbnwwfHx8fDE3NjMxMzg0MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drone flying"
+    },
+    {
+      "id": "product-6",
+      "description": "A mechanical keyboard",
+      "imageUrl": "https://images.unsplash.com/photo-1602025882379-e01cf08baa51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWNoYW5pY2FsJTIwa2V5Ym9hcmR8ZW58MHx8fHwxNzYzMTI2NTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mechanical keyboard"
+    },
+    {
+      "id": "product-7",
+      "description": "A portable speaker",
+      "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxibHVldG9vdGglMjBzcGVha2VyfGVufDB8fHx8MTc2MzE4MDU3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bluetooth speaker"
+    },
+    {
+      "id": "product-8",
+      "description": "A virtual reality headset",
+      "imageUrl": "https://images.unsplash.com/photo-1702471897393-47ec1ba1192b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxWUiUyMGhlYWRzZXR8ZW58MHx8fHwxNzYzMTQ0MTY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "VR headset"
+    },
+    {
+      "id": "product-9",
+      "description": "An electric scooter",
+      "imageUrl": "https://images.unsplash.com/photo-1598077737122-925e6f7cf137?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZWxlY3RyaWMlMjBzY29vdGVyfGVufDB8fHx8MTc2MzE3NTM5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electric scooter"
+    },
+    {
+      "id": "product-10",
+      "description": "A smart coffee mug",
+      "imageUrl": "https://images.unsplash.com/photo-1652422485192-d959b9a8d16e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMG11Z3xlbnwwfHx8fDE3NjMxNDU1MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart mug"
+    }
+  ]
 }
